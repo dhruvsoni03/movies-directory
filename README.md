@@ -67,4 +67,4 @@ If I had 48 more hours to work on this, I would prioritize:
     - Build out the "Showdown" feature hinted at in the home page widgets, allowing users to vote between two random movies (like "FaceMash" for films) to crowd-source a community ranking.
 
 ---
-**Author**: [Your Name/ID]
+**Author**: Dhruv Soni
