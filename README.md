@@ -22,7 +22,7 @@ To ensure a robust testing environment without hitting API rate limits during de
 
 1.  **Fetching**: Initial seed data for key movies was fetched/defined based on real TMDB attributes.
 2.  **Expansion Script** (`scripts/expand-data.js`): 
-    - We implemented a custom algorithm to validly duplicate and vary the seed movies to create a larger dataset (~160 items).
+    - I implemented a custom algorithm to validly duplicate and vary the seed movies to create a larger dataset (~160 items).
     - It generates unique IDs, rotates titles slightly (for pagination testing), varies ratings randomly within a realistic range, and distributes release years.
     - This allows for thorough testing of the **Pagination**, **Sorting**, and **Search** features without needing thousands of manual entries.
 
