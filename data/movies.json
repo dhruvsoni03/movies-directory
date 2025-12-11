@@ -1,0 +1,4498 @@
+[
+  {
+    "id": "27205-0",
+    "title": "Inception",
+    "slug": "inception",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2010-01-01",
+    "rating": 9.3,
+    "poster": "/posters/inception.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/s3TBrRGB1jav7wJGNsODp87pbp0.jpg",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 148,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/27205"
+  },
+  {
+    "id": "157336-1",
+    "title": "Interstellar",
+    "slug": "interstellar",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "release_date": "2014-01-01",
+    "rating": 7.7,
+    "poster": "/posters/interstellar.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "cast": [
+      "Matthew McConaughey",
+      "Jessica Chastain",
+      "Anne Hathaway",
+      "Michael Caine"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 169,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB",
+      "CA"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/157336"
+  },
+  {
+    "id": "155-2",
+    "title": "The Dark Knight",
+    "slug": "the-dark-knight",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "release_date": "2008-01-01",
+    "rating": 9,
+    "poster": "/posters/dark-knight.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Michael Caine",
+      "Gary Oldman"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 152,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/155"
+  },
+  {
+    "id": "680-3",
+    "title": "Pulp Fiction",
+    "slug": "pulp-fiction",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "release_date": "1994-01-01",
+    "rating": 9.5,
+    "poster": "/posters/pulp-fiction.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/suaEOleknyhGRYFOYsBOXVStO0F.jpg",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis"
+    ],
+    "director": "Quentin Tarantino",
+    "runtime": 154,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/680"
+  },
+  {
+    "id": "603-4",
+    "title": "The Matrix",
+    "slug": "the-matrix",
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "release_date": "1999-01-01",
+    "rating": 8.4,
+    "poster": "/posters/the-matrix.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nGzQYQemVDwThMhM2fsvNl8v6P5.jpg",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "director": "Lana Wachowski",
+    "runtime": 136,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/603"
+  },
+  {
+    "id": "550-5",
+    "title": "Fight Club",
+    "slug": "fight-club",
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "release_date": "1999-01-01",
+    "rating": 8.7,
+    "poster": "/posters/fight-club.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter",
+      "Meat Loaf"
+    ],
+    "director": "David Fincher",
+    "runtime": 139,
+    "language": "en",
+    "countries": [
+      "US",
+      "DE"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/550"
+  },
+  {
+    "id": "13-6",
+    "title": "Forrest Gump",
+    "slug": "forrest-gump",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "release_date": "1994-01-01",
+    "rating": 9,
+    "poster": "/posters/forrest-gump.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/qdIMHd4sEfJSckfVJfKQvisL02a.jpg",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field"
+    ],
+    "director": "Robert Zemeckis",
+    "runtime": 142,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/13"
+  },
+  {
+    "id": "769-7",
+    "title": "Goodfellas",
+    "slug": "goodfellas",
+    "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_date": "1990-01-01",
+    "rating": 8.1,
+    "poster": "/posters/goodfellas.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/sw7mordbZxgITU8QBxv946WK186.jpg",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco"
+    ],
+    "director": "Martin Scorsese",
+    "runtime": 146,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/769"
+  },
+  {
+    "id": "129-8",
+    "title": "Spirited Away",
+    "slug": "spirited-away",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "release_date": "2001-01-01",
+    "rating": 8.4,
+    "poster": "/posters/spirited-away.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takashi Naito"
+    ],
+    "director": "Hayao Miyazaki",
+    "runtime": 125,
+    "language": "ja",
+    "countries": [
+      "JP"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/129"
+  },
+  {
+    "id": "496243-9",
+    "title": "Parasite",
+    "slug": "parasite",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "release_date": "2019-01-01",
+    "rating": 8.3,
+    "poster": "/posters/parasite.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7DwyQP8.jpg",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik"
+    ],
+    "director": "Bong Joon-ho",
+    "runtime": 133,
+    "language": "ko",
+    "countries": [
+      "KR"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/496243"
+  },
+  {
+    "id": "244786-10",
+    "title": "Whiplash",
+    "slug": "whiplash",
+    "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "release_date": "2014-01-01",
+    "rating": 8.4,
+    "poster": "/posters/whiplash.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6bbZ6XyvgfjhQwbplnuh1LSj1ky.jpg",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist"
+    ],
+    "director": "Damien Chazelle",
+    "runtime": 107,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/244786"
+  },
+  {
+    "id": "569094-11",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "slug": "spider-man-active-the-spider-verse",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2023-01-01",
+    "rating": 8.3,
+    "poster": "/posters/spider-man-spider-verse.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Brian Tyree Henry",
+      "Luna Lauren Velez"
+    ],
+    "director": "Joaquim Dos Santos",
+    "runtime": 140,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/569094"
+  },
+  {
+    "id": "693134-12",
+    "title": "Dune: Part Two",
+    "slug": "dune-part-two",
+    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family.",
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2024-01-01",
+    "rating": 8.2,
+    "poster": "/posters/dune-part-two.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem"
+    ],
+    "director": "Denis Villeneuve",
+    "runtime": 167,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/693134"
+  },
+  {
+    "id": "27205-13",
+    "title": "Inception 2",
+    "slug": "inception-13",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2010-01-01",
+    "rating": 7.5,
+    "poster": "/posters/inception.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/s3TBrRGB1jav7wJGNsODp87pbp0.jpg",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 148,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/27205"
+  },
+  {
+    "id": "157336-14",
+    "title": "Interstellar 2",
+    "slug": "interstellar-14",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "release_date": "2018-01-01",
+    "rating": 8.3,
+    "poster": "/posters/interstellar.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "cast": [
+      "Matthew McConaughey",
+      "Jessica Chastain",
+      "Anne Hathaway",
+      "Michael Caine"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 169,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB",
+      "CA"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/157336"
+  },
+  {
+    "id": "155-15",
+    "title": "The Dark Knight 2",
+    "slug": "the-dark-knight-15",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "release_date": "2012-01-01",
+    "rating": 8.6,
+    "poster": "/posters/dark-knight.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Michael Caine",
+      "Gary Oldman"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 152,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/155"
+  },
+  {
+    "id": "680-16",
+    "title": "Pulp Fiction 2",
+    "slug": "pulp-fiction-16",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "release_date": "1996-01-01",
+    "rating": 8.9,
+    "poster": "/posters/pulp-fiction.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/suaEOleknyhGRYFOYsBOXVStO0F.jpg",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis"
+    ],
+    "director": "Quentin Tarantino",
+    "runtime": 154,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/680"
+  },
+  {
+    "id": "603-17",
+    "title": "The Matrix 2",
+    "slug": "the-matrix-17",
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "release_date": "2000-01-01",
+    "rating": 8.1,
+    "poster": "/posters/the-matrix.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nGzQYQemVDwThMhM2fsvNl8v6P5.jpg",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "director": "Lana Wachowski",
+    "runtime": 136,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/603"
+  },
+  {
+    "id": "550-18",
+    "title": "Fight Club 2",
+    "slug": "fight-club-18",
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "release_date": "2000-01-01",
+    "rating": 8.9,
+    "poster": "/posters/fight-club.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter",
+      "Meat Loaf"
+    ],
+    "director": "David Fincher",
+    "runtime": 139,
+    "language": "en",
+    "countries": [
+      "US",
+      "DE"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/550"
+  },
+  {
+    "id": "13-19",
+    "title": "Forrest Gump 2",
+    "slug": "forrest-gump-19",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "release_date": "1997-01-01",
+    "rating": 9.4,
+    "poster": "/posters/forrest-gump.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/qdIMHd4sEfJSckfVJfKQvisL02a.jpg",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field"
+    ],
+    "director": "Robert Zemeckis",
+    "runtime": 142,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/13"
+  },
+  {
+    "id": "769-20",
+    "title": "Goodfellas 2",
+    "slug": "goodfellas-20",
+    "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_date": "1992-01-01",
+    "rating": 9.3,
+    "poster": "/posters/goodfellas.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/sw7mordbZxgITU8QBxv946WK186.jpg",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco"
+    ],
+    "director": "Martin Scorsese",
+    "runtime": 146,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/769"
+  },
+  {
+    "id": "129-21",
+    "title": "Spirited Away 2",
+    "slug": "spirited-away-21",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "release_date": "2004-01-01",
+    "rating": 9.1,
+    "poster": "/posters/spirited-away.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takashi Naito"
+    ],
+    "director": "Hayao Miyazaki",
+    "runtime": 125,
+    "language": "ja",
+    "countries": [
+      "JP"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/129"
+  },
+  {
+    "id": "496243-22",
+    "title": "Parasite 2",
+    "slug": "parasite-22",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "release_date": "2020-01-01",
+    "rating": 7.6,
+    "poster": "/posters/parasite.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7DwyQP8.jpg",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik"
+    ],
+    "director": "Bong Joon-ho",
+    "runtime": 133,
+    "language": "ko",
+    "countries": [
+      "KR"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/496243"
+  },
+  {
+    "id": "244786-23",
+    "title": "Whiplash 2",
+    "slug": "whiplash-23",
+    "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "release_date": "2015-01-01",
+    "rating": 7.7,
+    "poster": "/posters/whiplash.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6bbZ6XyvgfjhQwbplnuh1LSj1ky.jpg",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist"
+    ],
+    "director": "Damien Chazelle",
+    "runtime": 107,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/244786"
+  },
+  {
+    "id": "569094-24",
+    "title": "Spider-Man: Across the Spider-Verse 2",
+    "slug": "spider-man-active-the-spider-verse-24",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2027-01-01",
+    "rating": 7.4,
+    "poster": "/posters/spider-man-spider-verse.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Brian Tyree Henry",
+      "Luna Lauren Velez"
+    ],
+    "director": "Joaquim Dos Santos",
+    "runtime": 140,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/569094"
+  },
+  {
+    "id": "693134-25",
+    "title": "Dune: Part Two 2",
+    "slug": "dune-part-two-25",
+    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family.",
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2027-01-01",
+    "rating": 9,
+    "poster": "/posters/dune-part-two.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem"
+    ],
+    "director": "Denis Villeneuve",
+    "runtime": 167,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/693134"
+  },
+  {
+    "id": "27205-26",
+    "title": "Inception 3",
+    "slug": "inception-26",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2012-01-01",
+    "rating": 7.8,
+    "poster": "/posters/inception.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/s3TBrRGB1jav7wJGNsODp87pbp0.jpg",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 148,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/27205"
+  },
+  {
+    "id": "157336-27",
+    "title": "Interstellar 3",
+    "slug": "interstellar-27",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "release_date": "2015-01-01",
+    "rating": 8,
+    "poster": "/posters/interstellar.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "cast": [
+      "Matthew McConaughey",
+      "Jessica Chastain",
+      "Anne Hathaway",
+      "Michael Caine"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 169,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB",
+      "CA"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/157336"
+  },
+  {
+    "id": "155-28",
+    "title": "The Dark Knight 3",
+    "slug": "the-dark-knight-28",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "release_date": "2008-01-01",
+    "rating": 8.2,
+    "poster": "/posters/dark-knight.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Michael Caine",
+      "Gary Oldman"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 152,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/155"
+  },
+  {
+    "id": "680-29",
+    "title": "Pulp Fiction 3",
+    "slug": "pulp-fiction-29",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "release_date": "1996-01-01",
+    "rating": 8.8,
+    "poster": "/posters/pulp-fiction.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/suaEOleknyhGRYFOYsBOXVStO0F.jpg",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis"
+    ],
+    "director": "Quentin Tarantino",
+    "runtime": 154,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/680"
+  },
+  {
+    "id": "603-30",
+    "title": "The Matrix 3",
+    "slug": "the-matrix-30",
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "release_date": "2003-01-01",
+    "rating": 8.2,
+    "poster": "/posters/the-matrix.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nGzQYQemVDwThMhM2fsvNl8v6P5.jpg",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "director": "Lana Wachowski",
+    "runtime": 136,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/603"
+  },
+  {
+    "id": "550-31",
+    "title": "Fight Club 3",
+    "slug": "fight-club-31",
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "release_date": "1999-01-01",
+    "rating": 7.4,
+    "poster": "/posters/fight-club.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter",
+      "Meat Loaf"
+    ],
+    "director": "David Fincher",
+    "runtime": 139,
+    "language": "en",
+    "countries": [
+      "US",
+      "DE"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/550"
+  },
+  {
+    "id": "13-32",
+    "title": "Forrest Gump 3",
+    "slug": "forrest-gump-32",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "release_date": "1995-01-01",
+    "rating": 8.1,
+    "poster": "/posters/forrest-gump.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/qdIMHd4sEfJSckfVJfKQvisL02a.jpg",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field"
+    ],
+    "director": "Robert Zemeckis",
+    "runtime": 142,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/13"
+  },
+  {
+    "id": "769-33",
+    "title": "Goodfellas 3",
+    "slug": "goodfellas-33",
+    "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_date": "1991-01-01",
+    "rating": 8.6,
+    "poster": "/posters/goodfellas.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/sw7mordbZxgITU8QBxv946WK186.jpg",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco"
+    ],
+    "director": "Martin Scorsese",
+    "runtime": 146,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/769"
+  },
+  {
+    "id": "129-34",
+    "title": "Spirited Away 3",
+    "slug": "spirited-away-34",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "release_date": "2004-01-01",
+    "rating": 9.5,
+    "poster": "/posters/spirited-away.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takashi Naito"
+    ],
+    "director": "Hayao Miyazaki",
+    "runtime": 125,
+    "language": "ja",
+    "countries": [
+      "JP"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/129"
+  },
+  {
+    "id": "496243-35",
+    "title": "Parasite 3",
+    "slug": "parasite-35",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "release_date": "2019-01-01",
+    "rating": 9.4,
+    "poster": "/posters/parasite.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7DwyQP8.jpg",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik"
+    ],
+    "director": "Bong Joon-ho",
+    "runtime": 133,
+    "language": "ko",
+    "countries": [
+      "KR"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/496243"
+  },
+  {
+    "id": "244786-36",
+    "title": "Whiplash 3",
+    "slug": "whiplash-36",
+    "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "release_date": "2018-01-01",
+    "rating": 8.1,
+    "poster": "/posters/whiplash.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6bbZ6XyvgfjhQwbplnuh1LSj1ky.jpg",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist"
+    ],
+    "director": "Damien Chazelle",
+    "runtime": 107,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/244786"
+  },
+  {
+    "id": "569094-37",
+    "title": "Spider-Man: Across the Spider-Verse 3",
+    "slug": "spider-man-active-the-spider-verse-37",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2027-01-01",
+    "rating": 7.7,
+    "poster": "/posters/spider-man-spider-verse.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Brian Tyree Henry",
+      "Luna Lauren Velez"
+    ],
+    "director": "Joaquim Dos Santos",
+    "runtime": 140,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/569094"
+  },
+  {
+    "id": "693134-38",
+    "title": "Dune: Part Two 3",
+    "slug": "dune-part-two-38",
+    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family.",
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2025-01-01",
+    "rating": 8.4,
+    "poster": "/posters/dune-part-two.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem"
+    ],
+    "director": "Denis Villeneuve",
+    "runtime": 167,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/693134"
+  },
+  {
+    "id": "27205-39",
+    "title": "Inception 4",
+    "slug": "inception-39",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2010-01-01",
+    "rating": 9.3,
+    "poster": "/posters/inception.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/s3TBrRGB1jav7wJGNsODp87pbp0.jpg",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 148,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/27205"
+  },
+  {
+    "id": "157336-40",
+    "title": "Interstellar 4",
+    "slug": "interstellar-40",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "release_date": "2018-01-01",
+    "rating": 9.1,
+    "poster": "/posters/interstellar.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "cast": [
+      "Matthew McConaughey",
+      "Jessica Chastain",
+      "Anne Hathaway",
+      "Michael Caine"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 169,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB",
+      "CA"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/157336"
+  },
+  {
+    "id": "155-41",
+    "title": "The Dark Knight 4",
+    "slug": "the-dark-knight-41",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "release_date": "2010-01-01",
+    "rating": 8,
+    "poster": "/posters/dark-knight.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Michael Caine",
+      "Gary Oldman"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 152,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/155"
+  },
+  {
+    "id": "680-42",
+    "title": "Pulp Fiction 4",
+    "slug": "pulp-fiction-42",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "release_date": "1998-01-01",
+    "rating": 8.8,
+    "poster": "/posters/pulp-fiction.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/suaEOleknyhGRYFOYsBOXVStO0F.jpg",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis"
+    ],
+    "director": "Quentin Tarantino",
+    "runtime": 154,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/680"
+  },
+  {
+    "id": "603-43",
+    "title": "The Matrix 4",
+    "slug": "the-matrix-43",
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "release_date": "2002-01-01",
+    "rating": 8.1,
+    "poster": "/posters/the-matrix.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nGzQYQemVDwThMhM2fsvNl8v6P5.jpg",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "director": "Lana Wachowski",
+    "runtime": 136,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/603"
+  },
+  {
+    "id": "550-44",
+    "title": "Fight Club 4",
+    "slug": "fight-club-44",
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "release_date": "2002-01-01",
+    "rating": 7.8,
+    "poster": "/posters/fight-club.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter",
+      "Meat Loaf"
+    ],
+    "director": "David Fincher",
+    "runtime": 139,
+    "language": "en",
+    "countries": [
+      "US",
+      "DE"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/550"
+  },
+  {
+    "id": "13-45",
+    "title": "Forrest Gump 4",
+    "slug": "forrest-gump-45",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "release_date": "1996-01-01",
+    "rating": 8.8,
+    "poster": "/posters/forrest-gump.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/qdIMHd4sEfJSckfVJfKQvisL02a.jpg",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field"
+    ],
+    "director": "Robert Zemeckis",
+    "runtime": 142,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/13"
+  },
+  {
+    "id": "769-46",
+    "title": "Goodfellas 4",
+    "slug": "goodfellas-46",
+    "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_date": "1990-01-01",
+    "rating": 7.9,
+    "poster": "/posters/goodfellas.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/sw7mordbZxgITU8QBxv946WK186.jpg",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco"
+    ],
+    "director": "Martin Scorsese",
+    "runtime": 146,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/769"
+  },
+  {
+    "id": "129-47",
+    "title": "Spirited Away 4",
+    "slug": "spirited-away-47",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "release_date": "2005-01-01",
+    "rating": 8.1,
+    "poster": "/posters/spirited-away.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takashi Naito"
+    ],
+    "director": "Hayao Miyazaki",
+    "runtime": 125,
+    "language": "ja",
+    "countries": [
+      "JP"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/129"
+  },
+  {
+    "id": "496243-48",
+    "title": "Parasite 4",
+    "slug": "parasite-48",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "release_date": "2019-01-01",
+    "rating": 7.7,
+    "poster": "/posters/parasite.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7DwyQP8.jpg",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik"
+    ],
+    "director": "Bong Joon-ho",
+    "runtime": 133,
+    "language": "ko",
+    "countries": [
+      "KR"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/496243"
+  },
+  {
+    "id": "244786-49",
+    "title": "Whiplash 4",
+    "slug": "whiplash-49",
+    "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "release_date": "2018-01-01",
+    "rating": 8,
+    "poster": "/posters/whiplash.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6bbZ6XyvgfjhQwbplnuh1LSj1ky.jpg",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist"
+    ],
+    "director": "Damien Chazelle",
+    "runtime": 107,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/244786"
+  },
+  {
+    "id": "569094-50",
+    "title": "Spider-Man: Across the Spider-Verse 4",
+    "slug": "spider-man-active-the-spider-verse-50",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2024-01-01",
+    "rating": 8.7,
+    "poster": "/posters/spider-man-spider-verse.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Brian Tyree Henry",
+      "Luna Lauren Velez"
+    ],
+    "director": "Joaquim Dos Santos",
+    "runtime": 140,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/569094"
+  },
+  {
+    "id": "693134-51",
+    "title": "Dune: Part Two 4",
+    "slug": "dune-part-two-51",
+    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family.",
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2024-01-01",
+    "rating": 8.7,
+    "poster": "/posters/dune-part-two.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem"
+    ],
+    "director": "Denis Villeneuve",
+    "runtime": 167,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/693134"
+  },
+  {
+    "id": "27205-52",
+    "title": "Inception 5",
+    "slug": "inception-52",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2012-01-01",
+    "rating": 8.2,
+    "poster": "/posters/inception.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/s3TBrRGB1jav7wJGNsODp87pbp0.jpg",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 148,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/27205"
+  },
+  {
+    "id": "157336-53",
+    "title": "Interstellar 5",
+    "slug": "interstellar-53",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "release_date": "2018-01-01",
+    "rating": 8.9,
+    "poster": "/posters/interstellar.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "cast": [
+      "Matthew McConaughey",
+      "Jessica Chastain",
+      "Anne Hathaway",
+      "Michael Caine"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 169,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB",
+      "CA"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/157336"
+  },
+  {
+    "id": "155-54",
+    "title": "The Dark Knight 5",
+    "slug": "the-dark-knight-54",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "release_date": "2011-01-01",
+    "rating": 8.9,
+    "poster": "/posters/dark-knight.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Michael Caine",
+      "Gary Oldman"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 152,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/155"
+  },
+  {
+    "id": "680-55",
+    "title": "Pulp Fiction 5",
+    "slug": "pulp-fiction-55",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "release_date": "1996-01-01",
+    "rating": 8.9,
+    "poster": "/posters/pulp-fiction.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/suaEOleknyhGRYFOYsBOXVStO0F.jpg",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis"
+    ],
+    "director": "Quentin Tarantino",
+    "runtime": 154,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/680"
+  },
+  {
+    "id": "603-56",
+    "title": "The Matrix 5",
+    "slug": "the-matrix-56",
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "release_date": "1999-01-01",
+    "rating": 8.4,
+    "poster": "/posters/the-matrix.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nGzQYQemVDwThMhM2fsvNl8v6P5.jpg",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "director": "Lana Wachowski",
+    "runtime": 136,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/603"
+  },
+  {
+    "id": "550-57",
+    "title": "Fight Club 5",
+    "slug": "fight-club-57",
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "release_date": "1999-01-01",
+    "rating": 8.4,
+    "poster": "/posters/fight-club.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter",
+      "Meat Loaf"
+    ],
+    "director": "David Fincher",
+    "runtime": 139,
+    "language": "en",
+    "countries": [
+      "US",
+      "DE"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/550"
+  },
+  {
+    "id": "13-58",
+    "title": "Forrest Gump 5",
+    "slug": "forrest-gump-58",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "release_date": "1996-01-01",
+    "rating": 9.2,
+    "poster": "/posters/forrest-gump.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/qdIMHd4sEfJSckfVJfKQvisL02a.jpg",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field"
+    ],
+    "director": "Robert Zemeckis",
+    "runtime": 142,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/13"
+  },
+  {
+    "id": "769-59",
+    "title": "Goodfellas 5",
+    "slug": "goodfellas-59",
+    "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_date": "1990-01-01",
+    "rating": 9,
+    "poster": "/posters/goodfellas.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/sw7mordbZxgITU8QBxv946WK186.jpg",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco"
+    ],
+    "director": "Martin Scorsese",
+    "runtime": 146,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/769"
+  },
+  {
+    "id": "129-60",
+    "title": "Spirited Away 5",
+    "slug": "spirited-away-60",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "release_date": "2002-01-01",
+    "rating": 8,
+    "poster": "/posters/spirited-away.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takashi Naito"
+    ],
+    "director": "Hayao Miyazaki",
+    "runtime": 125,
+    "language": "ja",
+    "countries": [
+      "JP"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/129"
+  },
+  {
+    "id": "496243-61",
+    "title": "Parasite 5",
+    "slug": "parasite-61",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "release_date": "2022-01-01",
+    "rating": 9.1,
+    "poster": "/posters/parasite.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7DwyQP8.jpg",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik"
+    ],
+    "director": "Bong Joon-ho",
+    "runtime": 133,
+    "language": "ko",
+    "countries": [
+      "KR"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/496243"
+  },
+  {
+    "id": "244786-62",
+    "title": "Whiplash 5",
+    "slug": "whiplash-62",
+    "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "release_date": "2014-01-01",
+    "rating": 9.1,
+    "poster": "/posters/whiplash.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6bbZ6XyvgfjhQwbplnuh1LSj1ky.jpg",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist"
+    ],
+    "director": "Damien Chazelle",
+    "runtime": 107,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/244786"
+  },
+  {
+    "id": "569094-63",
+    "title": "Spider-Man: Across the Spider-Verse 5",
+    "slug": "spider-man-active-the-spider-verse-63",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2024-01-01",
+    "rating": 8.9,
+    "poster": "/posters/spider-man-spider-verse.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Brian Tyree Henry",
+      "Luna Lauren Velez"
+    ],
+    "director": "Joaquim Dos Santos",
+    "runtime": 140,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/569094"
+  },
+  {
+    "id": "693134-64",
+    "title": "Dune: Part Two 5",
+    "slug": "dune-part-two-64",
+    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family.",
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2024-01-01",
+    "rating": 7.6,
+    "poster": "/posters/dune-part-two.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem"
+    ],
+    "director": "Denis Villeneuve",
+    "runtime": 167,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/693134"
+  },
+  {
+    "id": "27205-65",
+    "title": "Inception 6",
+    "slug": "inception-65",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2012-01-01",
+    "rating": 9,
+    "poster": "/posters/inception.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/s3TBrRGB1jav7wJGNsODp87pbp0.jpg",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 148,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/27205"
+  },
+  {
+    "id": "157336-66",
+    "title": "Interstellar 6",
+    "slug": "interstellar-66",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "release_date": "2016-01-01",
+    "rating": 9.3,
+    "poster": "/posters/interstellar.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "cast": [
+      "Matthew McConaughey",
+      "Jessica Chastain",
+      "Anne Hathaway",
+      "Michael Caine"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 169,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB",
+      "CA"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/157336"
+  },
+  {
+    "id": "155-67",
+    "title": "The Dark Knight 6",
+    "slug": "the-dark-knight-67",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "release_date": "2012-01-01",
+    "rating": 9.7,
+    "poster": "/posters/dark-knight.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Michael Caine",
+      "Gary Oldman"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 152,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/155"
+  },
+  {
+    "id": "680-68",
+    "title": "Pulp Fiction 6",
+    "slug": "pulp-fiction-68",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "release_date": "1996-01-01",
+    "rating": 8.1,
+    "poster": "/posters/pulp-fiction.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/suaEOleknyhGRYFOYsBOXVStO0F.jpg",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis"
+    ],
+    "director": "Quentin Tarantino",
+    "runtime": 154,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/680"
+  },
+  {
+    "id": "603-69",
+    "title": "The Matrix 6",
+    "slug": "the-matrix-69",
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "release_date": "2000-01-01",
+    "rating": 8.5,
+    "poster": "/posters/the-matrix.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nGzQYQemVDwThMhM2fsvNl8v6P5.jpg",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "director": "Lana Wachowski",
+    "runtime": 136,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/603"
+  },
+  {
+    "id": "550-70",
+    "title": "Fight Club 6",
+    "slug": "fight-club-70",
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "release_date": "2002-01-01",
+    "rating": 7.8,
+    "poster": "/posters/fight-club.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter",
+      "Meat Loaf"
+    ],
+    "director": "David Fincher",
+    "runtime": 139,
+    "language": "en",
+    "countries": [
+      "US",
+      "DE"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/550"
+  },
+  {
+    "id": "13-71",
+    "title": "Forrest Gump 6",
+    "slug": "forrest-gump-71",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "release_date": "1998-01-01",
+    "rating": 8.7,
+    "poster": "/posters/forrest-gump.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/qdIMHd4sEfJSckfVJfKQvisL02a.jpg",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field"
+    ],
+    "director": "Robert Zemeckis",
+    "runtime": 142,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/13"
+  },
+  {
+    "id": "769-72",
+    "title": "Goodfellas 6",
+    "slug": "goodfellas-72",
+    "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_date": "1992-01-01",
+    "rating": 8.7,
+    "poster": "/posters/goodfellas.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/sw7mordbZxgITU8QBxv946WK186.jpg",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco"
+    ],
+    "director": "Martin Scorsese",
+    "runtime": 146,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/769"
+  },
+  {
+    "id": "129-73",
+    "title": "Spirited Away 6",
+    "slug": "spirited-away-73",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "release_date": "2001-01-01",
+    "rating": 7.6,
+    "poster": "/posters/spirited-away.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takashi Naito"
+    ],
+    "director": "Hayao Miyazaki",
+    "runtime": 125,
+    "language": "ja",
+    "countries": [
+      "JP"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/129"
+  },
+  {
+    "id": "496243-74",
+    "title": "Parasite 6",
+    "slug": "parasite-74",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "release_date": "2021-01-01",
+    "rating": 8.3,
+    "poster": "/posters/parasite.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7DwyQP8.jpg",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik"
+    ],
+    "director": "Bong Joon-ho",
+    "runtime": 133,
+    "language": "ko",
+    "countries": [
+      "KR"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/496243"
+  },
+  {
+    "id": "244786-75",
+    "title": "Whiplash 6",
+    "slug": "whiplash-75",
+    "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "release_date": "2015-01-01",
+    "rating": 9.3,
+    "poster": "/posters/whiplash.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6bbZ6XyvgfjhQwbplnuh1LSj1ky.jpg",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist"
+    ],
+    "director": "Damien Chazelle",
+    "runtime": 107,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/244786"
+  },
+  {
+    "id": "569094-76",
+    "title": "Spider-Man: Across the Spider-Verse 6",
+    "slug": "spider-man-active-the-spider-verse-76",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2024-01-01",
+    "rating": 9.4,
+    "poster": "/posters/spider-man-spider-verse.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Brian Tyree Henry",
+      "Luna Lauren Velez"
+    ],
+    "director": "Joaquim Dos Santos",
+    "runtime": 140,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/569094"
+  },
+  {
+    "id": "693134-77",
+    "title": "Dune: Part Two 6",
+    "slug": "dune-part-two-77",
+    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family.",
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2027-01-01",
+    "rating": 9.1,
+    "poster": "/posters/dune-part-two.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem"
+    ],
+    "director": "Denis Villeneuve",
+    "runtime": 167,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/693134"
+  },
+  {
+    "id": "27205-78",
+    "title": "Inception 7",
+    "slug": "inception-78",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2014-01-01",
+    "rating": 8.4,
+    "poster": "/posters/inception.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/s3TBrRGB1jav7wJGNsODp87pbp0.jpg",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 148,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/27205"
+  },
+  {
+    "id": "157336-79",
+    "title": "Interstellar 7",
+    "slug": "interstellar-79",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "release_date": "2015-01-01",
+    "rating": 8,
+    "poster": "/posters/interstellar.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "cast": [
+      "Matthew McConaughey",
+      "Jessica Chastain",
+      "Anne Hathaway",
+      "Michael Caine"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 169,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB",
+      "CA"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/157336"
+  },
+  {
+    "id": "155-80",
+    "title": "The Dark Knight 7",
+    "slug": "the-dark-knight-80",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "release_date": "2012-01-01",
+    "rating": 9.5,
+    "poster": "/posters/dark-knight.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Michael Caine",
+      "Gary Oldman"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 152,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/155"
+  },
+  {
+    "id": "680-81",
+    "title": "Pulp Fiction 7",
+    "slug": "pulp-fiction-81",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "release_date": "1996-01-01",
+    "rating": 8.4,
+    "poster": "/posters/pulp-fiction.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/suaEOleknyhGRYFOYsBOXVStO0F.jpg",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis"
+    ],
+    "director": "Quentin Tarantino",
+    "runtime": 154,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/680"
+  },
+  {
+    "id": "603-82",
+    "title": "The Matrix 7",
+    "slug": "the-matrix-82",
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "release_date": "2002-01-01",
+    "rating": 8.6,
+    "poster": "/posters/the-matrix.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nGzQYQemVDwThMhM2fsvNl8v6P5.jpg",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "director": "Lana Wachowski",
+    "runtime": 136,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/603"
+  },
+  {
+    "id": "550-83",
+    "title": "Fight Club 7",
+    "slug": "fight-club-83",
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "release_date": "2001-01-01",
+    "rating": 7.5,
+    "poster": "/posters/fight-club.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter",
+      "Meat Loaf"
+    ],
+    "director": "David Fincher",
+    "runtime": 139,
+    "language": "en",
+    "countries": [
+      "US",
+      "DE"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/550"
+  },
+  {
+    "id": "13-84",
+    "title": "Forrest Gump 7",
+    "slug": "forrest-gump-84",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "release_date": "1994-01-01",
+    "rating": 8.7,
+    "poster": "/posters/forrest-gump.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/qdIMHd4sEfJSckfVJfKQvisL02a.jpg",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field"
+    ],
+    "director": "Robert Zemeckis",
+    "runtime": 142,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/13"
+  },
+  {
+    "id": "769-85",
+    "title": "Goodfellas 7",
+    "slug": "goodfellas-85",
+    "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_date": "1992-01-01",
+    "rating": 8.8,
+    "poster": "/posters/goodfellas.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/sw7mordbZxgITU8QBxv946WK186.jpg",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco"
+    ],
+    "director": "Martin Scorsese",
+    "runtime": 146,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/769"
+  },
+  {
+    "id": "129-86",
+    "title": "Spirited Away 7",
+    "slug": "spirited-away-86",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "release_date": "2001-01-01",
+    "rating": 7.9,
+    "poster": "/posters/spirited-away.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takashi Naito"
+    ],
+    "director": "Hayao Miyazaki",
+    "runtime": 125,
+    "language": "ja",
+    "countries": [
+      "JP"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/129"
+  },
+  {
+    "id": "496243-87",
+    "title": "Parasite 7",
+    "slug": "parasite-87",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "release_date": "2019-01-01",
+    "rating": 7.9,
+    "poster": "/posters/parasite.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7DwyQP8.jpg",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik"
+    ],
+    "director": "Bong Joon-ho",
+    "runtime": 133,
+    "language": "ko",
+    "countries": [
+      "KR"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/496243"
+  },
+  {
+    "id": "244786-88",
+    "title": "Whiplash 7",
+    "slug": "whiplash-88",
+    "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "release_date": "2014-01-01",
+    "rating": 7.7,
+    "poster": "/posters/whiplash.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6bbZ6XyvgfjhQwbplnuh1LSj1ky.jpg",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist"
+    ],
+    "director": "Damien Chazelle",
+    "runtime": 107,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/244786"
+  },
+  {
+    "id": "569094-89",
+    "title": "Spider-Man: Across the Spider-Verse 7",
+    "slug": "spider-man-active-the-spider-verse-89",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2024-01-01",
+    "rating": 8.8,
+    "poster": "/posters/spider-man-spider-verse.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Brian Tyree Henry",
+      "Luna Lauren Velez"
+    ],
+    "director": "Joaquim Dos Santos",
+    "runtime": 140,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/569094"
+  },
+  {
+    "id": "693134-90",
+    "title": "Dune: Part Two 7",
+    "slug": "dune-part-two-90",
+    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family.",
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2025-01-01",
+    "rating": 8.6,
+    "poster": "/posters/dune-part-two.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem"
+    ],
+    "director": "Denis Villeneuve",
+    "runtime": 167,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/693134"
+  },
+  {
+    "id": "27205-91",
+    "title": "Inception 8",
+    "slug": "inception-91",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2013-01-01",
+    "rating": 9,
+    "poster": "/posters/inception.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/s3TBrRGB1jav7wJGNsODp87pbp0.jpg",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 148,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/27205"
+  },
+  {
+    "id": "157336-92",
+    "title": "Interstellar 8",
+    "slug": "interstellar-92",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "release_date": "2018-01-01",
+    "rating": 8.7,
+    "poster": "/posters/interstellar.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "cast": [
+      "Matthew McConaughey",
+      "Jessica Chastain",
+      "Anne Hathaway",
+      "Michael Caine"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 169,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB",
+      "CA"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/157336"
+  },
+  {
+    "id": "155-93",
+    "title": "The Dark Knight 8",
+    "slug": "the-dark-knight-93",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "release_date": "2010-01-01",
+    "rating": 9.2,
+    "poster": "/posters/dark-knight.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Michael Caine",
+      "Gary Oldman"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 152,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/155"
+  },
+  {
+    "id": "680-94",
+    "title": "Pulp Fiction 8",
+    "slug": "pulp-fiction-94",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "release_date": "1997-01-01",
+    "rating": 8.7,
+    "poster": "/posters/pulp-fiction.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/suaEOleknyhGRYFOYsBOXVStO0F.jpg",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis"
+    ],
+    "director": "Quentin Tarantino",
+    "runtime": 154,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/680"
+  },
+  {
+    "id": "603-95",
+    "title": "The Matrix 8",
+    "slug": "the-matrix-95",
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "release_date": "2002-01-01",
+    "rating": 8.3,
+    "poster": "/posters/the-matrix.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nGzQYQemVDwThMhM2fsvNl8v6P5.jpg",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "director": "Lana Wachowski",
+    "runtime": 136,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/603"
+  },
+  {
+    "id": "550-96",
+    "title": "Fight Club 8",
+    "slug": "fight-club-96",
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "release_date": "1999-01-01",
+    "rating": 9.1,
+    "poster": "/posters/fight-club.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter",
+      "Meat Loaf"
+    ],
+    "director": "David Fincher",
+    "runtime": 139,
+    "language": "en",
+    "countries": [
+      "US",
+      "DE"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/550"
+  },
+  {
+    "id": "13-97",
+    "title": "Forrest Gump 8",
+    "slug": "forrest-gump-97",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "release_date": "1996-01-01",
+    "rating": 9.2,
+    "poster": "/posters/forrest-gump.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/qdIMHd4sEfJSckfVJfKQvisL02a.jpg",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field"
+    ],
+    "director": "Robert Zemeckis",
+    "runtime": 142,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/13"
+  },
+  {
+    "id": "769-98",
+    "title": "Goodfellas 8",
+    "slug": "goodfellas-98",
+    "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_date": "1990-01-01",
+    "rating": 9.3,
+    "poster": "/posters/goodfellas.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/sw7mordbZxgITU8QBxv946WK186.jpg",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco"
+    ],
+    "director": "Martin Scorsese",
+    "runtime": 146,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/769"
+  },
+  {
+    "id": "129-99",
+    "title": "Spirited Away 8",
+    "slug": "spirited-away-99",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "release_date": "2004-01-01",
+    "rating": 7.8,
+    "poster": "/posters/spirited-away.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takashi Naito"
+    ],
+    "director": "Hayao Miyazaki",
+    "runtime": 125,
+    "language": "ja",
+    "countries": [
+      "JP"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/129"
+  },
+  {
+    "id": "496243-100",
+    "title": "Parasite 8",
+    "slug": "parasite-100",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "release_date": "2021-01-01",
+    "rating": 9.4,
+    "poster": "/posters/parasite.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7DwyQP8.jpg",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik"
+    ],
+    "director": "Bong Joon-ho",
+    "runtime": 133,
+    "language": "ko",
+    "countries": [
+      "KR"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/496243"
+  },
+  {
+    "id": "244786-101",
+    "title": "Whiplash 8",
+    "slug": "whiplash-101",
+    "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "release_date": "2018-01-01",
+    "rating": 8.9,
+    "poster": "/posters/whiplash.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6bbZ6XyvgfjhQwbplnuh1LSj1ky.jpg",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist"
+    ],
+    "director": "Damien Chazelle",
+    "runtime": 107,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/244786"
+  },
+  {
+    "id": "569094-102",
+    "title": "Spider-Man: Across the Spider-Verse 8",
+    "slug": "spider-man-active-the-spider-verse-102",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2025-01-01",
+    "rating": 8.6,
+    "poster": "/posters/spider-man-spider-verse.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Brian Tyree Henry",
+      "Luna Lauren Velez"
+    ],
+    "director": "Joaquim Dos Santos",
+    "runtime": 140,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/569094"
+  },
+  {
+    "id": "693134-103",
+    "title": "Dune: Part Two 8",
+    "slug": "dune-part-two-103",
+    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family.",
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2027-01-01",
+    "rating": 8.8,
+    "poster": "/posters/dune-part-two.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem"
+    ],
+    "director": "Denis Villeneuve",
+    "runtime": 167,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/693134"
+  },
+  {
+    "id": "27205-104",
+    "title": "Inception 9",
+    "slug": "inception-104",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2010-01-01",
+    "rating": 8.4,
+    "poster": "/posters/inception.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/s3TBrRGB1jav7wJGNsODp87pbp0.jpg",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 148,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/27205"
+  },
+  {
+    "id": "157336-105",
+    "title": "Interstellar 9",
+    "slug": "interstellar-105",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "release_date": "2015-01-01",
+    "rating": 7.8,
+    "poster": "/posters/interstellar.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "cast": [
+      "Matthew McConaughey",
+      "Jessica Chastain",
+      "Anne Hathaway",
+      "Michael Caine"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 169,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB",
+      "CA"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/157336"
+  },
+  {
+    "id": "155-106",
+    "title": "The Dark Knight 9",
+    "slug": "the-dark-knight-106",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "release_date": "2009-01-01",
+    "rating": 9.9,
+    "poster": "/posters/dark-knight.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Michael Caine",
+      "Gary Oldman"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 152,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/155"
+  },
+  {
+    "id": "680-107",
+    "title": "Pulp Fiction 9",
+    "slug": "pulp-fiction-107",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "release_date": "1995-01-01",
+    "rating": 9.7,
+    "poster": "/posters/pulp-fiction.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/suaEOleknyhGRYFOYsBOXVStO0F.jpg",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis"
+    ],
+    "director": "Quentin Tarantino",
+    "runtime": 154,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/680"
+  },
+  {
+    "id": "603-108",
+    "title": "The Matrix 9",
+    "slug": "the-matrix-108",
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "release_date": "2003-01-01",
+    "rating": 9.5,
+    "poster": "/posters/the-matrix.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nGzQYQemVDwThMhM2fsvNl8v6P5.jpg",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "director": "Lana Wachowski",
+    "runtime": 136,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/603"
+  },
+  {
+    "id": "550-109",
+    "title": "Fight Club 9",
+    "slug": "fight-club-109",
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "release_date": "1999-01-01",
+    "rating": 8.4,
+    "poster": "/posters/fight-club.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter",
+      "Meat Loaf"
+    ],
+    "director": "David Fincher",
+    "runtime": 139,
+    "language": "en",
+    "countries": [
+      "US",
+      "DE"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/550"
+  },
+  {
+    "id": "13-110",
+    "title": "Forrest Gump 9",
+    "slug": "forrest-gump-110",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "release_date": "1994-01-01",
+    "rating": 9.5,
+    "poster": "/posters/forrest-gump.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/qdIMHd4sEfJSckfVJfKQvisL02a.jpg",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field"
+    ],
+    "director": "Robert Zemeckis",
+    "runtime": 142,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/13"
+  },
+  {
+    "id": "769-111",
+    "title": "Goodfellas 9",
+    "slug": "goodfellas-111",
+    "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_date": "1994-01-01",
+    "rating": 9.3,
+    "poster": "/posters/goodfellas.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/sw7mordbZxgITU8QBxv946WK186.jpg",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco"
+    ],
+    "director": "Martin Scorsese",
+    "runtime": 146,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/769"
+  },
+  {
+    "id": "129-112",
+    "title": "Spirited Away 9",
+    "slug": "spirited-away-112",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "release_date": "2003-01-01",
+    "rating": 8.1,
+    "poster": "/posters/spirited-away.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takashi Naito"
+    ],
+    "director": "Hayao Miyazaki",
+    "runtime": 125,
+    "language": "ja",
+    "countries": [
+      "JP"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/129"
+  },
+  {
+    "id": "496243-113",
+    "title": "Parasite 9",
+    "slug": "parasite-113",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "release_date": "2019-01-01",
+    "rating": 7.7,
+    "poster": "/posters/parasite.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7DwyQP8.jpg",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik"
+    ],
+    "director": "Bong Joon-ho",
+    "runtime": 133,
+    "language": "ko",
+    "countries": [
+      "KR"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/496243"
+  },
+  {
+    "id": "244786-114",
+    "title": "Whiplash 9",
+    "slug": "whiplash-114",
+    "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "release_date": "2014-01-01",
+    "rating": 8.2,
+    "poster": "/posters/whiplash.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6bbZ6XyvgfjhQwbplnuh1LSj1ky.jpg",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist"
+    ],
+    "director": "Damien Chazelle",
+    "runtime": 107,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/244786"
+  },
+  {
+    "id": "569094-115",
+    "title": "Spider-Man: Across the Spider-Verse 9",
+    "slug": "spider-man-active-the-spider-verse-115",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2025-01-01",
+    "rating": 8.7,
+    "poster": "/posters/spider-man-spider-verse.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Brian Tyree Henry",
+      "Luna Lauren Velez"
+    ],
+    "director": "Joaquim Dos Santos",
+    "runtime": 140,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/569094"
+  },
+  {
+    "id": "693134-116",
+    "title": "Dune: Part Two 9",
+    "slug": "dune-part-two-116",
+    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family.",
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2027-01-01",
+    "rating": 8.1,
+    "poster": "/posters/dune-part-two.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem"
+    ],
+    "director": "Denis Villeneuve",
+    "runtime": 167,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/693134"
+  },
+  {
+    "id": "27205-117",
+    "title": "Inception 10",
+    "slug": "inception-117",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2011-01-01",
+    "rating": 9.2,
+    "poster": "/posters/inception.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/s3TBrRGB1jav7wJGNsODp87pbp0.jpg",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 148,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/27205"
+  },
+  {
+    "id": "157336-118",
+    "title": "Interstellar 10",
+    "slug": "interstellar-118",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "release_date": "2014-01-01",
+    "rating": 8.6,
+    "poster": "/posters/interstellar.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "cast": [
+      "Matthew McConaughey",
+      "Jessica Chastain",
+      "Anne Hathaway",
+      "Michael Caine"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 169,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB",
+      "CA"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/157336"
+  },
+  {
+    "id": "155-119",
+    "title": "The Dark Knight 10",
+    "slug": "the-dark-knight-119",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "release_date": "2009-01-01",
+    "rating": 9.1,
+    "poster": "/posters/dark-knight.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Michael Caine",
+      "Gary Oldman"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 152,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/155"
+  },
+  {
+    "id": "680-120",
+    "title": "Pulp Fiction 10",
+    "slug": "pulp-fiction-120",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "release_date": "1994-01-01",
+    "rating": 8.4,
+    "poster": "/posters/pulp-fiction.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/suaEOleknyhGRYFOYsBOXVStO0F.jpg",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis"
+    ],
+    "director": "Quentin Tarantino",
+    "runtime": 154,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/680"
+  },
+  {
+    "id": "603-121",
+    "title": "The Matrix 10",
+    "slug": "the-matrix-121",
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "release_date": "1999-01-01",
+    "rating": 7.8,
+    "poster": "/posters/the-matrix.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nGzQYQemVDwThMhM2fsvNl8v6P5.jpg",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "director": "Lana Wachowski",
+    "runtime": 136,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/603"
+  },
+  {
+    "id": "550-122",
+    "title": "Fight Club 10",
+    "slug": "fight-club-122",
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "release_date": "2003-01-01",
+    "rating": 8,
+    "poster": "/posters/fight-club.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter",
+      "Meat Loaf"
+    ],
+    "director": "David Fincher",
+    "runtime": 139,
+    "language": "en",
+    "countries": [
+      "US",
+      "DE"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/550"
+  },
+  {
+    "id": "13-123",
+    "title": "Forrest Gump 10",
+    "slug": "forrest-gump-123",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "release_date": "1996-01-01",
+    "rating": 7.7,
+    "poster": "/posters/forrest-gump.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/qdIMHd4sEfJSckfVJfKQvisL02a.jpg",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field"
+    ],
+    "director": "Robert Zemeckis",
+    "runtime": 142,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/13"
+  },
+  {
+    "id": "769-124",
+    "title": "Goodfellas 10",
+    "slug": "goodfellas-124",
+    "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_date": "1993-01-01",
+    "rating": 9.4,
+    "poster": "/posters/goodfellas.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/sw7mordbZxgITU8QBxv946WK186.jpg",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco"
+    ],
+    "director": "Martin Scorsese",
+    "runtime": 146,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/769"
+  },
+  {
+    "id": "129-125",
+    "title": "Spirited Away 10",
+    "slug": "spirited-away-125",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "release_date": "2004-01-01",
+    "rating": 7.8,
+    "poster": "/posters/spirited-away.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takashi Naito"
+    ],
+    "director": "Hayao Miyazaki",
+    "runtime": 125,
+    "language": "ja",
+    "countries": [
+      "JP"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/129"
+  },
+  {
+    "id": "496243-126",
+    "title": "Parasite 10",
+    "slug": "parasite-126",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "release_date": "2023-01-01",
+    "rating": 9.5,
+    "poster": "/posters/parasite.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7DwyQP8.jpg",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik"
+    ],
+    "director": "Bong Joon-ho",
+    "runtime": 133,
+    "language": "ko",
+    "countries": [
+      "KR"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/496243"
+  },
+  {
+    "id": "244786-127",
+    "title": "Whiplash 10",
+    "slug": "whiplash-127",
+    "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "release_date": "2017-01-01",
+    "rating": 9.1,
+    "poster": "/posters/whiplash.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6bbZ6XyvgfjhQwbplnuh1LSj1ky.jpg",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist"
+    ],
+    "director": "Damien Chazelle",
+    "runtime": 107,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/244786"
+  },
+  {
+    "id": "569094-128",
+    "title": "Spider-Man: Across the Spider-Verse 10",
+    "slug": "spider-man-active-the-spider-verse-128",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2025-01-01",
+    "rating": 8.4,
+    "poster": "/posters/spider-man-spider-verse.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Brian Tyree Henry",
+      "Luna Lauren Velez"
+    ],
+    "director": "Joaquim Dos Santos",
+    "runtime": 140,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/569094"
+  },
+  {
+    "id": "693134-129",
+    "title": "Dune: Part Two 10",
+    "slug": "dune-part-two-129",
+    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family.",
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2025-01-01",
+    "rating": 7.3,
+    "poster": "/posters/dune-part-two.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem"
+    ],
+    "director": "Denis Villeneuve",
+    "runtime": 167,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/693134"
+  },
+  {
+    "id": "27205-130",
+    "title": "Inception 11",
+    "slug": "inception-130",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2011-01-01",
+    "rating": 8.6,
+    "poster": "/posters/inception.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/s3TBrRGB1jav7wJGNsODp87pbp0.jpg",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 148,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/27205"
+  },
+  {
+    "id": "157336-131",
+    "title": "Interstellar 11",
+    "slug": "interstellar-131",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "release_date": "2017-01-01",
+    "rating": 8.4,
+    "poster": "/posters/interstellar.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "cast": [
+      "Matthew McConaughey",
+      "Jessica Chastain",
+      "Anne Hathaway",
+      "Michael Caine"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 169,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB",
+      "CA"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/157336"
+  },
+  {
+    "id": "155-132",
+    "title": "The Dark Knight 11",
+    "slug": "the-dark-knight-132",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "release_date": "2008-01-01",
+    "rating": 8.2,
+    "poster": "/posters/dark-knight.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Michael Caine",
+      "Gary Oldman"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 152,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/155"
+  },
+  {
+    "id": "680-133",
+    "title": "Pulp Fiction 11",
+    "slug": "pulp-fiction-133",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "release_date": "1997-01-01",
+    "rating": 8.9,
+    "poster": "/posters/pulp-fiction.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/suaEOleknyhGRYFOYsBOXVStO0F.jpg",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis"
+    ],
+    "director": "Quentin Tarantino",
+    "runtime": 154,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/680"
+  },
+  {
+    "id": "603-134",
+    "title": "The Matrix 11",
+    "slug": "the-matrix-134",
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "release_date": "2003-01-01",
+    "rating": 9.7,
+    "poster": "/posters/the-matrix.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nGzQYQemVDwThMhM2fsvNl8v6P5.jpg",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "director": "Lana Wachowski",
+    "runtime": 136,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/603"
+  },
+  {
+    "id": "550-135",
+    "title": "Fight Club 11",
+    "slug": "fight-club-135",
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "release_date": "1999-01-01",
+    "rating": 7.7,
+    "poster": "/posters/fight-club.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter",
+      "Meat Loaf"
+    ],
+    "director": "David Fincher",
+    "runtime": 139,
+    "language": "en",
+    "countries": [
+      "US",
+      "DE"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/550"
+  },
+  {
+    "id": "13-136",
+    "title": "Forrest Gump 11",
+    "slug": "forrest-gump-136",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "release_date": "1994-01-01",
+    "rating": 8,
+    "poster": "/posters/forrest-gump.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/qdIMHd4sEfJSckfVJfKQvisL02a.jpg",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field"
+    ],
+    "director": "Robert Zemeckis",
+    "runtime": 142,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/13"
+  },
+  {
+    "id": "769-137",
+    "title": "Goodfellas 11",
+    "slug": "goodfellas-137",
+    "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_date": "1994-01-01",
+    "rating": 9.5,
+    "poster": "/posters/goodfellas.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/sw7mordbZxgITU8QBxv946WK186.jpg",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco"
+    ],
+    "director": "Martin Scorsese",
+    "runtime": 146,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/769"
+  },
+  {
+    "id": "129-138",
+    "title": "Spirited Away 11",
+    "slug": "spirited-away-138",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "release_date": "2005-01-01",
+    "rating": 9.2,
+    "poster": "/posters/spirited-away.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takashi Naito"
+    ],
+    "director": "Hayao Miyazaki",
+    "runtime": 125,
+    "language": "ja",
+    "countries": [
+      "JP"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/129"
+  },
+  {
+    "id": "496243-139",
+    "title": "Parasite 11",
+    "slug": "parasite-139",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "release_date": "2020-01-01",
+    "rating": 8.1,
+    "poster": "/posters/parasite.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7DwyQP8.jpg",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik"
+    ],
+    "director": "Bong Joon-ho",
+    "runtime": 133,
+    "language": "ko",
+    "countries": [
+      "KR"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/496243"
+  },
+  {
+    "id": "244786-140",
+    "title": "Whiplash 11",
+    "slug": "whiplash-140",
+    "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "release_date": "2016-01-01",
+    "rating": 8.9,
+    "poster": "/posters/whiplash.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6bbZ6XyvgfjhQwbplnuh1LSj1ky.jpg",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist"
+    ],
+    "director": "Damien Chazelle",
+    "runtime": 107,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/244786"
+  },
+  {
+    "id": "569094-141",
+    "title": "Spider-Man: Across the Spider-Verse 11",
+    "slug": "spider-man-active-the-spider-verse-141",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2027-01-01",
+    "rating": 8.9,
+    "poster": "/posters/spider-man-spider-verse.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Brian Tyree Henry",
+      "Luna Lauren Velez"
+    ],
+    "director": "Joaquim Dos Santos",
+    "runtime": 140,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/569094"
+  },
+  {
+    "id": "693134-142",
+    "title": "Dune: Part Two 11",
+    "slug": "dune-part-two-142",
+    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family.",
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2026-01-01",
+    "rating": 7.9,
+    "poster": "/posters/dune-part-two.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem"
+    ],
+    "director": "Denis Villeneuve",
+    "runtime": 167,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/693134"
+  },
+  {
+    "id": "27205-143",
+    "title": "Inception 12",
+    "slug": "inception-143",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2014-01-01",
+    "rating": 8.2,
+    "poster": "/posters/inception.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/s3TBrRGB1jav7wJGNsODp87pbp0.jpg",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 148,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/27205"
+  },
+  {
+    "id": "157336-144",
+    "title": "Interstellar 12",
+    "slug": "interstellar-144",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "release_date": "2017-01-01",
+    "rating": 8.8,
+    "poster": "/posters/interstellar.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "cast": [
+      "Matthew McConaughey",
+      "Jessica Chastain",
+      "Anne Hathaway",
+      "Michael Caine"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 169,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB",
+      "CA"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/157336"
+  },
+  {
+    "id": "155-145",
+    "title": "The Dark Knight 12",
+    "slug": "the-dark-knight-145",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "release_date": "2011-01-01",
+    "rating": 9.3,
+    "poster": "/posters/dark-knight.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Michael Caine",
+      "Gary Oldman"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 152,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/155"
+  },
+  {
+    "id": "680-146",
+    "title": "Pulp Fiction 12",
+    "slug": "pulp-fiction-146",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "release_date": "1996-01-01",
+    "rating": 8.9,
+    "poster": "/posters/pulp-fiction.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/suaEOleknyhGRYFOYsBOXVStO0F.jpg",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis"
+    ],
+    "director": "Quentin Tarantino",
+    "runtime": 154,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/680"
+  },
+  {
+    "id": "603-147",
+    "title": "The Matrix 12",
+    "slug": "the-matrix-147",
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "release_date": "1999-01-01",
+    "rating": 7.8,
+    "poster": "/posters/the-matrix.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nGzQYQemVDwThMhM2fsvNl8v6P5.jpg",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "director": "Lana Wachowski",
+    "runtime": 136,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/603"
+  },
+  {
+    "id": "550-148",
+    "title": "Fight Club 12",
+    "slug": "fight-club-148",
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "release_date": "2001-01-01",
+    "rating": 7.7,
+    "poster": "/posters/fight-club.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter",
+      "Meat Loaf"
+    ],
+    "director": "David Fincher",
+    "runtime": 139,
+    "language": "en",
+    "countries": [
+      "US",
+      "DE"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/550"
+  },
+  {
+    "id": "13-149",
+    "title": "Forrest Gump 12",
+    "slug": "forrest-gump-149",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "release_date": "1996-01-01",
+    "rating": 9.3,
+    "poster": "/posters/forrest-gump.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/qdIMHd4sEfJSckfVJfKQvisL02a.jpg",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field"
+    ],
+    "director": "Robert Zemeckis",
+    "runtime": 142,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/13"
+  },
+  {
+    "id": "769-150",
+    "title": "Goodfellas 12",
+    "slug": "goodfellas-150",
+    "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_date": "1993-01-01",
+    "rating": 8.8,
+    "poster": "/posters/goodfellas.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/sw7mordbZxgITU8QBxv946WK186.jpg",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco"
+    ],
+    "director": "Martin Scorsese",
+    "runtime": 146,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/769"
+  },
+  {
+    "id": "129-151",
+    "title": "Spirited Away 12",
+    "slug": "spirited-away-151",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "release_date": "2004-01-01",
+    "rating": 8.5,
+    "poster": "/posters/spirited-away.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takashi Naito"
+    ],
+    "director": "Hayao Miyazaki",
+    "runtime": 125,
+    "language": "ja",
+    "countries": [
+      "JP"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/129"
+  },
+  {
+    "id": "496243-152",
+    "title": "Parasite 12",
+    "slug": "parasite-152",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "release_date": "2023-01-01",
+    "rating": 8.8,
+    "poster": "/posters/parasite.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7DwyQP8.jpg",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik"
+    ],
+    "director": "Bong Joon-ho",
+    "runtime": 133,
+    "language": "ko",
+    "countries": [
+      "KR"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/496243"
+  },
+  {
+    "id": "244786-153",
+    "title": "Whiplash 12",
+    "slug": "whiplash-153",
+    "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "release_date": "2017-01-01",
+    "rating": 7.7,
+    "poster": "/posters/whiplash.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6bbZ6XyvgfjhQwbplnuh1LSj1ky.jpg",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist"
+    ],
+    "director": "Damien Chazelle",
+    "runtime": 107,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/244786"
+  },
+  {
+    "id": "569094-154",
+    "title": "Spider-Man: Across the Spider-Verse 12",
+    "slug": "spider-man-active-the-spider-verse-154",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2026-01-01",
+    "rating": 7.6,
+    "poster": "/posters/spider-man-spider-verse.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Brian Tyree Henry",
+      "Luna Lauren Velez"
+    ],
+    "director": "Joaquim Dos Santos",
+    "runtime": 140,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/569094"
+  },
+  {
+    "id": "693134-155",
+    "title": "Dune: Part Two 12",
+    "slug": "dune-part-two-155",
+    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family.",
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2028-01-01",
+    "rating": 8.4,
+    "poster": "/posters/dune-part-two.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem"
+    ],
+    "director": "Denis Villeneuve",
+    "runtime": 167,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/693134"
+  },
+  {
+    "id": "27205-156",
+    "title": "Inception 13",
+    "slug": "inception-156",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "release_date": "2014-01-01",
+    "rating": 8.3,
+    "poster": "/posters/inception.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/s3TBrRGB1jav7wJGNsODp87pbp0.jpg",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 148,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/27205"
+  },
+  {
+    "id": "157336-157",
+    "title": "Interstellar 13",
+    "slug": "interstellar-157",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "release_date": "2018-01-01",
+    "rating": 7.6,
+    "poster": "/posters/interstellar.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "cast": [
+      "Matthew McConaughey",
+      "Jessica Chastain",
+      "Anne Hathaway",
+      "Michael Caine"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 169,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB",
+      "CA"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/157336"
+  },
+  {
+    "id": "155-158",
+    "title": "The Dark Knight 13",
+    "slug": "the-dark-knight-158",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "release_date": "2010-01-01",
+    "rating": 9.8,
+    "poster": "/posters/dark-knight.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Michael Caine",
+      "Gary Oldman"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 152,
+    "language": "en",
+    "countries": [
+      "US",
+      "GB"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/155"
+  },
+  {
+    "id": "680-159",
+    "title": "Pulp Fiction 13",
+    "slug": "pulp-fiction-159",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "release_date": "1998-01-01",
+    "rating": 8.8,
+    "poster": "/posters/pulp-fiction.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/suaEOleknyhGRYFOYsBOXVStO0F.jpg",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis"
+    ],
+    "director": "Quentin Tarantino",
+    "runtime": 154,
+    "language": "en",
+    "countries": [
+      "US"
+    ],
+    "tmdb_url": "https://www.themoviedb.org/movie/680"
+  }
+]
