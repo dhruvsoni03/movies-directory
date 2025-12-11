@@ -5,8 +5,8 @@
 > **Submission for Intern Assessment**
 
 ## 🔗 Links
-- **GitHub Repository**: [INSERT GITHUB REPO LINK HERE]
-- **Live Demo (Vercel)**: [INSERT VERCEL LIVE URL HERE]
+- **GitHub Repository**: [https://github.com/dhruvsoni03/movies-directory](https://github.com/dhruvsoni03/movies-directory)
+- **Live Demo (Vercel)**: [https://movies-directory-5pn8rvmai-dhruvs-projects-42cd69d5.vercel.app](https://movies-directory-5pn8rvmai-dhruvs-projects-42cd69d5.vercel.app)
 
 ---
 
